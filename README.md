@@ -65,7 +65,7 @@ int main() {
 ## OUTPUT
 
 
-![Alt text](../../ex01/OS-Linux-commands-Shell-script/img/img2exp02.png)
+![Alt text](img2/img2exp02.png)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -119,7 +119,7 @@ int main() {
 ## OUTPUT
 
 
-![Alt text](../../ex01/OS-Linux-commands-Shell-script/img/img2exp2.png)
+![Alt text](img2/img2exp2.png)
 
 
 # RESULT:
